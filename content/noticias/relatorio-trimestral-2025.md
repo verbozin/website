@@ -13,45 +13,45 @@ Fiéis ao nosso compromisso com a transparência, apresentamos o balanço detalh
 
 ### Resumo Financeiro
 
-Durante o trimestre, movimentamos um total de **R$ 485.000**, distribuídos da seguinte forma:
+Durante o trimestre, movimentamos um total de **R$ xxxx.000**, distribuídos da seguinte forma:
 
 | Categoria | Valor | Percentual |
 |-----------|-------|------------|
-| Ações Diretas | R$ 412.250 | 85% |
-| Expansão | R$ 48.500 | 10% |
-| Administrativo | R$ 24.250 | 5% |
+| Ações Diretas | R$ xxx.250 | 85% |
+| Expansão | R$ xxx.500 | 10% |
+| Administrativo | R$ xxxx.250 | 5% |
 
 ### Principais Realizações
 
 #### Programa de Alimentação
-- **2.500 cestas básicas** distribuídas
-- **45 comunidades** atendidas
-- **Parceria** com 3 novos supermercados locais
+- **xxxx cestas básicas** distribuídas
+- **xxx comunidades** atendidas
+- **Parceria** com xxx novos supermercados locais
 
 #### Educação Bíblica
-- **12 turmas** de estudo bíblico formadas
-- **350 participantes** nos cursos
+- **xx turmas** de estudo bíblico formadas
+- **xxxx participantes** nos cursos
 - **Lançamento** do aplicativo bíblico gratuito
 
 #### Saúde e Bem-estar
-- **180 atendimentos** médicos realizados
+- **xxx atendimentos** médicos realizados
 - **Campanha** de vacinação em parceria com a Secretaria de Saúde
-- **Distribuição** de 500 kits de higiene
+- **Distribuição** de xxxx kits de higiene
 
 ### Métricas de Impacto
 
-- **Famílias beneficiadas:** 1.200
-- **Voluntários ativos:** 87
-- **Novas parcerias:** 5
+- **Famílias beneficiadas:** xxx
+- **Voluntários ativos:** xxx
+- **Novas parcerias:** xxx
 - **Taxa de satisfação dos beneficiários:** 94%
 
 ### Próximos Passos
 
 Para o 1º trimestre de 2026, planejamos:
 
-1. Expandir o programa de alimentação para 3 novas comunidades
+1. Expandir o programa de alimentação para xxx novas comunidades
 2. Inaugurar um centro de estudos bíblicos na zona leste
-3. Lançar a versão 2.0 do aplicativo bíblico com áudio
+3. Lançar a versão xxxx do aplicativo bíblico com áudio
 
 ### Agradecimentos
 

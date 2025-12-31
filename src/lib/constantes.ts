@@ -47,19 +47,19 @@ export const LINKS_FOOTER = {
 export const ESTATISTICAS_IMPACTO: EstatisticaImpacto[] = [
   {
     icone: "diversity_1",
-    valor: "15.000+",
+    valor: "xxxx+",
     label: "Famílias Ajudadas",
     descricao: "Pessoas impactadas diretamente",
   },
   {
     icone: "payments",
-    valor: "R$ 2M+",
+    valor: "R$ xxxx.000+",
     label: "Valor Arrecadado",
     descricao: "Investidos em projetos sociais",
   },
   {
     icone: "home_work",
-    valor: "120",
+    valor: "xxx",
     label: "Instituições Apoiadas",
     descricao: "Parceiros em todo o Brasil",
   },

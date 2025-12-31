@@ -180,19 +180,19 @@ export default async function PaginaTransparencia() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
               <div>
-                <p className="text-4xl md:text-5xl font-black">R$ 2M</p>
+                <p className="text-4xl md:text-5xl font-black">R$ xxx</p>
                 <p className="text-blue-100 mt-2">Movimentados em 2023</p>
               </div>
               <div>
-                <p className="text-4xl md:text-5xl font-black">85%</p>
+                <p className="text-4xl md:text-5xl font-black">xx%</p>
                 <p className="text-blue-100 mt-2">Direto para Projetos</p>
               </div>
               <div>
-                <p className="text-4xl md:text-5xl font-black">12</p>
+                <p className="text-4xl md:text-5xl font-black">xxx</p>
                 <p className="text-blue-100 mt-2">Anos de Operação</p>
               </div>
               <div>
-                <p className="text-4xl md:text-5xl font-black">A</p>
+                <p className="text-4xl md:text-5xl font-black">X</p>
                 <p className="text-blue-100 mt-2">Nota em Transparência</p>
               </div>
             </div>
@@ -268,7 +268,7 @@ export default async function PaginaTransparencia() {
                   <div className="w-4 h-4 rounded-full bg-primary mt-1 shrink-0"></div>
                   <div>
                     <p className="font-bold text-foreground">
-                      85% - Ações Diretas
+                      xx% - Ações Diretas
                     </p>
                     <p className="text-sm text-foreground-muted">
                       Alimentação, saúde, educação e moradia para beneficiários.
@@ -279,7 +279,7 @@ export default async function PaginaTransparencia() {
                   <div className="w-4 h-4 rounded-full bg-green-500 mt-1 shrink-0"></div>
                   <div>
                     <p className="font-bold text-foreground">
-                      10% - Expansão e Infraestrutura
+                      xx% - Expansão e Infraestrutura
                     </p>
                     <p className="text-sm text-foreground-muted">
                       Investimentos para alcançar novas regiões e aumentar o
@@ -291,7 +291,7 @@ export default async function PaginaTransparencia() {
                   <div className="w-4 h-4 rounded-full bg-orange-500 mt-1 shrink-0"></div>
                   <div>
                     <p className="font-bold text-foreground">
-                      5% - Administrativo
+                      x% - Administrativo
                     </p>
                     <p className="text-sm text-foreground-muted">
                       Custos operacionais, contabilidade e auditorias externas.

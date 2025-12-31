@@ -18,7 +18,7 @@ A Igreja Comunidade Esperança atuará como ponto de distribuição de cestas b�
 ### O que muda
 
 - **Novo ponto de distribuição** atendendo o bairro Jardim Esperança
-- **3 turmas** de estudo bíblico nas dependências da igreja
+- **xxx turmas** de estudo bíblico nas dependências da igreja
 - **Capacidade** para atender 200 famílias adicionais por mês
 
 ### Palavra do Pastor
@@ -29,7 +29,7 @@ A Igreja Comunidade Esperança atuará como ponto de distribuição de cestas b�
 
 ### Próximos eventos
 
-A primeira distribuição no novo ponto acontecerá no dia **18 de dezembro**, às 9h. Voluntários são bem-vindos!
+A primeira distribuição no novo ponto acontecerá no dia **xx de dezembro**, às 9h. Voluntários são bem-vindos!
 
 ### Como participar
 

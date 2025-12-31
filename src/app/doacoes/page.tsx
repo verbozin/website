@@ -128,7 +128,7 @@ export default async function PaginaDoacoes() {
                   </span>
                 </div>
                 <h3 className="text-4xl font-black text-foreground mb-2">
-                  85%
+                  xx%
                 </h3>
                 <p className="font-bold text-lg mb-2">Projetos Sociais</p>
                 <p className="text-sm text-foreground-muted">
@@ -145,7 +145,7 @@ export default async function PaginaDoacoes() {
                   </span>
                 </div>
                 <h3 className="text-4xl font-black text-foreground mb-2">
-                  10%
+                  xx%
                 </h3>
                 <p className="font-bold text-lg mb-2">Expansão</p>
                 <p className="text-sm text-foreground-muted">
@@ -161,7 +161,7 @@ export default async function PaginaDoacoes() {
                     settings
                   </span>
                 </div>
-                <h3 className="text-4xl font-black text-foreground mb-2">5%</h3>
+                <h3 className="text-4xl font-black text-foreground mb-2">x%</h3>
                 <p className="font-bold text-lg mb-2">Administrativo</p>
                 <p className="text-sm text-foreground-muted">
                   Custos operacionais mantidos no mínimo para máxima eficiência.

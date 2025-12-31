@@ -8,20 +8,20 @@ imagemAlt: "Pilha de roupas de inverno e cobertores para doação"
 urgente: true
 ---
 
-## Natal Solidário 2025
+## Natal Solidário 2025(Historia fictícia, apenas para testes de desenvolvimento)
 
 O Natal está chegando e milhares de famílias contam com o nosso apoio para terem uma ceia digna e presentes para as crianças. **Nossos estoques estão críticos** e precisamos da sua ajuda urgente.
 
 ### Situação atual
 
-- **Cestas de Natal:** 35% da meta arrecadada
-- **Brinquedos:** 200 unidades (precisamos de 1.000)
+- **Cestas de Natal:** xx% da meta arrecadada
+- **Brinquedos:** XXX unidades (precisamos de 1.000)
 - **Panetones e chocolates:** Estoque zerado
 
 ### Como ajudar
 
 #### Doação financeira
-Qualquer valor ajuda. Com R$ 100, montamos uma cesta de Natal completa para uma família.
+Qualquer valor ajuda. Com R$ XXX, montamos uma cesta de Natal completa para uma família.
 
 #### Doação de itens
 Aceitamos:
@@ -35,19 +35,19 @@ Precisamos de ajuda para embalar e distribuir. Cadastre-se como voluntário!
 
 ### Pontos de coleta
 
-1. **Sede do Verbo Zin Institute** - Rua da Esperança, 123 - Centro
-2. **Igreja Comunidade Esperança** - Av. Brasil, 456 - Zona Norte
-3. **Supermercado Parceiro** - Shopping Popular, loja 12
+1. **Sede do Verbo Zin Institute** - Rua da Esperança, XXX - Centro
+2. **Igreja Comunidade Esperança** - Av. Brasil, XX - Zona Norte
+3. **Supermercado Parceiro** - Shopping Popular, loja XX
 
 ### Prazo
 
-As doações devem ser entregues até **20 de dezembro** para garantir a distribuição a tempo.
+As doações devem ser entregues até **XX de dezembro** para garantir a distribuição a tempo.
 
 ### Meta de arrecadação
 
-**R$ 50.000** para atender 500 famílias neste Natal.
+**R$ XX.000** para atender 500 famílias neste Natal.
 
-Atualmente: **R$ 17.500** (35%)
+Atualmente: **R$ XX.500** (35%)
 
 ---
 

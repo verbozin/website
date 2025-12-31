@@ -139,7 +139,7 @@ export default function PaginaSobreNos() {
           <div className="mx-auto max-w-[1200px] grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             <div className="flex flex-col gap-2">
               <span className="text-4xl md:text-5xl font-black text-white">
-                10k+
+                xxx+
               </span>
               <span className="text-white/80 font-medium">
                 Vidas Impactadas
@@ -147,7 +147,7 @@ export default function PaginaSobreNos() {
             </div>
             <div className="flex flex-col gap-2">
               <span className="text-4xl md:text-5xl font-black text-white">
-                50+
+                xxx+
               </span>
               <span className="text-white/80 font-medium">
                 Instituições Apoiadas
@@ -155,13 +155,13 @@ export default function PaginaSobreNos() {
             </div>
             <div className="flex flex-col gap-2">
               <span className="text-4xl md:text-5xl font-black text-white">
-                12
+                xxx
               </span>
               <span className="text-white/80 font-medium">Anos de História</span>
             </div>
             <div className="flex flex-col gap-2">
               <span className="text-4xl md:text-5xl font-black text-white">
-                100%
+                xxx%
               </span>
               <span className="text-white/80 font-medium">Transparência</span>
             </div>

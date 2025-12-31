@@ -150,22 +150,22 @@ export default async function PaginaNoticias() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <EstatisticaSimplificada
               icone="water_drop"
-              valor="200+"
+              valor="xxx+"
               label="Famílias Atendidas"
             />
             <EstatisticaSimplificada
               icone="school"
-              valor="15"
+              valor="xxx"
               label="Igrejas Apoiadas"
             />
             <EstatisticaSimplificada
               icone="volunteer_activism"
-              valor="R$ 50k"
+              valor="R$ xxx"
               label="Investidos em 2025"
             />
             <EstatisticaSimplificada
               icone="groups"
-              valor="50+"
+              valor="xxx+"
               label="Voluntários Ativos"
             />
           </div>

@@ -101,8 +101,8 @@ export function WidgetDoacao() {
           volunteer_activism
         </span>
         <p className="text-sm text-foreground">
-          <span className="font-bold">R$ 50</span> garante alimentação para uma
-          família por 2 semanas.
+          <span className="font-bold">R$ xx</span> garante alimentação para uma
+          família por x semanas.
         </p>
       </div>
 

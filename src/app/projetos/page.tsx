@@ -77,7 +77,7 @@ export default async function PaginaProjetos() {
             <div className="grid grid-cols-2 gap-8 md:grid-cols-4 md:gap-12">
               <div className="flex flex-col items-center justify-center text-center">
                 <span className="text-3xl font-black text-white sm:text-4xl">
-                  150+
+                  xxx+
                 </span>
                 <span className="mt-2 text-sm font-medium text-white/80">
                   Projetos Ativos
@@ -85,7 +85,7 @@ export default async function PaginaProjetos() {
               </div>
               <div className="flex flex-col items-center justify-center text-center">
                 <span className="text-3xl font-black text-white sm:text-4xl">
-                  R$ 2M
+                  R$ xxx
                 </span>
                 <span className="mt-2 text-sm font-medium text-white/80">
                   Investidos em 2023
@@ -93,7 +93,7 @@ export default async function PaginaProjetos() {
               </div>
               <div className="flex flex-col items-center justify-center text-center">
                 <span className="text-3xl font-black text-white sm:text-4xl">
-                  45
+                  xxx
                 </span>
                 <span className="mt-2 text-sm font-medium text-white/80">
                   Instituições Parceiras
@@ -101,7 +101,7 @@ export default async function PaginaProjetos() {
               </div>
               <div className="flex flex-col items-center justify-center text-center">
                 <span className="text-3xl font-black text-white sm:text-4xl">
-                  12k
+                  xxx
                 </span>
                 <span className="mt-2 text-sm font-medium text-white/80">
                   Vidas Impactadas
